@@ -4,6 +4,8 @@ import 'package:task_manager/providers/user_provider.dart';
 import 'package:task_manager/screens/auth/login_screen.dart';
 import 'package:task_manager/screens/admin/admin_home.dart';
 
+import '../employee/employee_home.dart';
+
 class AuthWrapper extends StatelessWidget {
   const AuthWrapper({super.key});
 
